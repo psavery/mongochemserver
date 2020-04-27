@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ChemML",
+    "url": "https://hachmannlab.github.io/chemml/",
+    "github": "https://github.com/hachmannlab/chemml",
+    "description": "A machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data",
+    "docker": "openchemistry/chemml"
+  },
+  {
+    "name": "NWChem",
+    "url": "http://www.nwchem-sw.org/",
+    "github": "https://github.com/nwchemgit/nwchem",
+    "description": "NWChem: Open Source High-Performance Computational Chemistry",
+    "docker": "openchemistry/nwchem"
+  },
+  {
+    "name": "Psi4",
+    "url": "http://www.psicode.org/",
+    "github": "https://github.com/psi4/psi4",
+    "description": "Open-Source Quantum Chemistry – an electronic structure package in C++ driven by Python",
+    "docker": "openchemistry/psi4"
+  },
+  {
+    "name": "TorchANI",
+    "url": "https://aiqm.github.io/torchani/",
+    "github": "https://github.com/aiqm/torchani",
+    "description": "Accurate Neural Network Potential on PyTorch",
+    "docker": "openchemistry/torchani"
+  }
+]
